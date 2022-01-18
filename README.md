@@ -11,12 +11,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   </span>
   <br><br/>
-  <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwarang98&show_icons=true&theme=dark)
-  </div>
-  <div>
-  
-  </div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwarang98&show_icons=true&theme=dracula)
   
 </div>
 
