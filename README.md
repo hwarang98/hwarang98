@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lee hwa%rang&fontSize=80" />
  <h3 align="center"> ⚒ Tech Stack ⚒ <h3>
    
   </br>
