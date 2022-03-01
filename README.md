@@ -1,7 +1,7 @@
 <div align="center">
  <div> 
   <p> Hi there! 👋 </p>
-  Good day! I am Lee hwarang  !!
+  Good day! 
  </div>
  
  </br></br>
