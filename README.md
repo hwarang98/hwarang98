@@ -1,6 +1,6 @@
 <div align="center">
  <div> 
-  <p> Hi there! 👋  </p>
+  <p> Hi there! 👋 </p>
   Good day !  
  </div>
  
