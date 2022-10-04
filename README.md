@@ -2,7 +2,7 @@
  <div>  
   <p> Hi there! 👋 </p>
   Good day !  
- </div>
+ </div> 
  
  </br></br>
  <h3 align="center"> ⚒ Tech Stack ⚒ <h3>
