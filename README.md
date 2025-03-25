@@ -1,7 +1,7 @@
 <div align="center">
  <div>  
-  <p> Hi there! 👋 </p>
-  Good day !    
+  <p> 백엔드 개발지 이화랑입니다👋 </p>
+  
  </div> 
    
  </br></br> 
